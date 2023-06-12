@@ -47,6 +47,18 @@
           "title": "Favorite Pie Flavors"
         },
         "type": "ia.chart.pie"
+      },
+      {
+        "meta": {
+          "name": "Button"
+        },
+        "position": {
+          "height": 34,
+          "width": 80,
+          "x": 445,
+          "y": 603
+        },
+        "type": "ia.input.button"
       }
     ],
     "meta": {
